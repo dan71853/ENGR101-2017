@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main (){
 int number = 100;
-println( "2" );
+-printf( "%i" , number );
 return 0;
 }
